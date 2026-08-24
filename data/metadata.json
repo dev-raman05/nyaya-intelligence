@@ -1,0 +1,18 @@
+{
+  "corpus_name": "Nyaya Intelligence Prototype Corpus",
+  "version": "1.0.0",
+  "last_updated": "2026-08-24T12:00:00Z",
+  "document_counts": {
+    "judgments": 26,
+    "paragraphs": 50,
+    "citations_relationships": 35,
+    "statutes": 3
+  },
+  "domains_covered": [
+    "Arbitration Law",
+    "Evidence and Contracts",
+    "Fundamental Rights",
+    "Constitutional Interpretation"
+  ],
+  "verification_status": "All judgments verified against Indian Kanoon / Supreme Court of India public records."
+}

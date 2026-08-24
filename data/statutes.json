@@ -1,0 +1,73 @@
+[
+  {
+    "statute_id": "STAT_ARB_1996",
+    "title": "Arbitration and Conciliation Act, 1996",
+    "description": "An Act to consolidate and amend the law relating to domestic arbitration, international commercial arbitration and enforcement of foreign arbitral awards.",
+    "sections": [
+      {
+        "section_id": "SEC_ARB_7",
+        "title": "Section 7: Arbitration agreement",
+        "text": "In this Part, 'arbitration agreement' means an agreement by the parties to submit to arbitration all or certain disputes which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not."
+      },
+      {
+        "section_id": "SEC_ARB_8",
+        "title": "Section 8: Power to refer parties to arbitration where there is an arbitration agreement",
+        "text": "A judicial authority, before which an action is brought in a matter which is the subject of an arbitration agreement shall, if a party to the arbitration agreement or any person claiming through or under him, so applies not later than the date of submitting his first statement on the substance of the dispute, then, notwithstanding any judgment, decree or order of the Supreme Court or any Court, refer the parties to arbitration unless it finds that prima facie no valid arbitration agreement exists."
+      },
+      {
+        "section_id": "SEC_ARB_11",
+        "title": "Section 11: Appointment of arbitrators",
+        "text": "A person of any nationality may be an arbitrator, unless otherwise agreed by the parties. The Supreme Court or, as the case may be, the High Court or any person or institution designated by such Court, shall have the power to appoint an arbitrator on the failure of the parties to do so."
+      },
+      {
+        "section_id": "SEC_ARB_16",
+        "title": "Section 16: Competence of arbitral tribunal to rule on its jurisdiction",
+        "text": "The arbitral tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the arbitration agreement, and for that purpose an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract."
+      },
+      {
+        "section_id": "SEC_ARB_34",
+        "title": "Section 34: Application for setting aside arbitral award",
+        "text": "Recourse to a Court against an arbitral award may be made only by an application for setting aside such award in accordance with sub-section (2) and sub-section (3). An award may be set aside if it is in conflict with the public policy of India or vitiated by patent illegality."
+      }
+    ]
+  },
+  {
+    "statute_id": "STAT_IEA_1872",
+    "title": "Indian Evidence Act, 1872",
+    "description": "An Act to consolidate, define and amend the law of Evidence.",
+    "sections": [
+      {
+        "section_id": "SEC_IEA_65B",
+        "title": "Section 65B: Admissibility of electronic records",
+        "text": "Notwithstanding anything contained in this Act, any information contained in an electronic record which is printed on a paper, stored, recorded or copied in optical or magnetic media produced by a computer shall be deemed to be also a document, if the conditions mentioned in this section are satisfied in relation to the information and computer in question and shall be admissible in any proceedings, without further proof or production of the original."
+      }
+    ]
+  },
+  {
+    "statute_id": "STAT_CONST_1950",
+    "title": "Constitution of India, 1950",
+    "description": "The supreme law of India.",
+    "sections": [
+      {
+        "section_id": "ART_14",
+        "title": "Article 14: Equality before law",
+        "text": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India."
+      },
+      {
+        "section_id": "ART_19",
+        "title": "Article 19: Protection of certain rights regarding freedom of speech, etc.",
+        "text": "All citizens shall have the right to freedom of speech and expression; to assemble peaceably and without arms; to form associations or unions; to move freely throughout the territory of India; to reside and settle in any part of the territory of India; and to practice any profession, or to carry on any occupation, trade or business."
+      },
+      {
+        "section_id": "ART_21",
+        "title": "Article 21: Protection of life and personal liberty",
+        "text": "No person shall be deprived of his life or personal liberty except according to procedure established by law."
+      },
+      {
+        "section_id": "ART_368",
+        "title": "Article 368: Power of Parliament to amend the Constitution and procedure therefor",
+        "text": "Notwithstanding anything in this Constitution, Parliament may in exercise of its constituent power amend by way of addition, variation or repeal any provision of this Constitution in accordance with the procedure laid down in this article."
+      }
+    ]
+  }
+]

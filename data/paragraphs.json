@@ -1,0 +1,345 @@
+[
+  {
+    "paragraph_id": "SC_ARB_001_P1",
+    "case_id": "SC_ARB_001",
+    "paragraph_number": "15",
+    "text": "It is well settled that an arbitration agreement is a separate and distinct agreement from the underlying contract. The arbitration clause in a contract is an independent agreement. Even if the contract is terminated, the arbitration clause, being a separate agreement, survives such termination.",
+    "legal_propositions": ["Arbitration agreement is separate from underlying contract", "Arbitration clause survives contract termination"]
+  },
+  {
+    "paragraph_id": "SC_ARB_001_P2",
+    "case_id": "SC_ARB_001",
+    "paragraph_number": "18",
+    "text": "The doctrine of separability or severability of the arbitration agreement from the underlying contract is well recognized in international commercial arbitration and is equally applicable under the Indian Arbitration and Conciliation Act, 1996.",
+    "legal_propositions": ["Doctrine of separability applies under Indian law", "Separability recognized in Indian Arbitration Act"]
+  },
+  {
+    "paragraph_id": "SC_ARB_001_P3",
+    "case_id": "SC_ARB_001",
+    "paragraph_number": "22",
+    "text": "Section 16 of the Arbitration and Conciliation Act, 1996, which empowers the arbitral tribunal to rule on its own jurisdiction, including ruling on the validity of the arbitration agreement, is a statutory recognition of the kompetenz-kompetenz principle and the doctrine of separability.",
+    "legal_propositions": ["Section 16 recognizes kompetenz-kompetenz principle", "Section 16 embodies separability doctrine"]
+  },
+  {
+    "paragraph_id": "SC_ARB_002_P1",
+    "case_id": "SC_ARB_002",
+    "paragraph_number": "12",
+    "text": "The arbitration agreement is an independent agreement. It is ancillary to the underlying contract. Even if the underlying contract comes to an end, the arbitration agreement does not thereby cease to exist. The arbitration clause survives for the purpose of resolution of disputes arising under or in relation to the contract.",
+    "legal_propositions": ["Arbitration agreement is independent", "Arbitration clause survives end of contract"]
+  },
+  {
+    "paragraph_id": "SC_ARB_002_P2",
+    "case_id": "SC_ARB_002",
+    "paragraph_number": "17",
+    "text": "An arbitration clause is a collateral term of the contract which relates to resolution of disputes. It does not perish with the termination of the contract. The termination of the contract may bring into existence disputes requiring resolution. The arbitration clause must be available to resolve those very disputes.",
+    "legal_propositions": ["Arbitration clause is collateral to main contract", "Termination may generate disputes requiring arbitration"]
+  },
+  {
+    "paragraph_id": "SC_ARB_003_P1",
+    "case_id": "SC_ARB_003",
+    "paragraph_number": "14",
+    "text": "The arbitration agreement has an independent existence from the underlying contract. This is recognized under Section 16 of the Act which provides that an arbitration clause forming part of a contract shall be treated as an agreement independent of the other terms of the contract.",
+    "legal_propositions": ["Arbitration agreement exists independently", "Section 16 treats arbitration clause as independent agreement"]
+  },
+  {
+    "paragraph_id": "SC_ARB_003_P2",
+    "case_id": "SC_ARB_003",
+    "paragraph_number": "19",
+    "text": "The kompetenz-kompetenz principle, embodied in Section 16, empowers the arbitral tribunal to rule on its own jurisdiction. This includes the power to determine whether the arbitration agreement has come to an end with the termination of the underlying contract.",
+    "legal_propositions": ["Kompetenz-kompetenz empowers tribunal on jurisdiction", "Tribunal can determine survival of arbitration agreement"]
+  },
+  {
+    "paragraph_id": "SC_ARB_004_P1",
+    "case_id": "SC_ARB_004",
+    "paragraph_number": "71",
+    "text": "The group of companies doctrine has been invoked in several international arbitrations to bind non-signatories to an arbitration agreement. The doctrine essentially provides that a company which is part of a group of companies and which has been involved in the negotiation, performance or termination of the contract may be bound by the arbitration agreement.",
+    "legal_propositions": ["Group of companies doctrine can bind non-signatories", "Involvement in contract performance can create arbitration obligations"]
+  },
+  {
+    "paragraph_id": "SC_ARB_004_P2",
+    "case_id": "SC_ARB_004",
+    "paragraph_number": "85",
+    "text": "When multiple agreements constitute a composite transaction and a party which is a signatory to some but not all agreements has been involved in the performance of all the agreements, the arbitration clause in one agreement may be applied to disputes arising from the composite transaction.",
+    "legal_propositions": ["Composite transaction doctrine extends arbitration", "Multiple agreements may be treated as single transaction"]
+  },
+  {
+    "paragraph_id": "SC_ARB_005_P1",
+    "case_id": "SC_ARB_005",
+    "paragraph_number": "32",
+    "text": "Part I of the Act is not confined in its applicability to arbitrations which take place in India. The provisions of Part I would apply to international commercial arbitrations held out of India unless the parties by agreement, express or implied, exclude all or any of its provisions.",
+    "legal_propositions": ["Part I applies to foreign-seated arbitrations", "Parties can exclude Part I by agreement"]
+  },
+  {
+    "paragraph_id": "SC_ARB_006_P1",
+    "case_id": "SC_ARB_006",
+    "paragraph_number": "96",
+    "text": "Part I of the Arbitration Act, 1996, is limited in its application to arbitrations where the place, or seat, of arbitration is in India. We are unable to accept the view expressed in Bhatia International that Part I has a wider territorial application.",
+    "legal_propositions": ["Part I applies only to India-seated arbitrations", "Bhatia International overruled on territorial scope"]
+  },
+  {
+    "paragraph_id": "SC_ARB_006_P2",
+    "case_id": "SC_ARB_006",
+    "paragraph_number": "118",
+    "text": "The seat of arbitration is the juridical home of the arbitration. It determines the applicable law governing the arbitral proceedings. The curial law, or the law governing the arbitration procedure, is the law of the seat.",
+    "legal_propositions": ["Seat determines applicable arbitration law", "Seat is juridical home of arbitration"]
+  },
+  {
+    "paragraph_id": "SC_ARB_007_P1",
+    "case_id": "SC_ARB_007",
+    "paragraph_number": "76",
+    "text": "The following categories of disputes are generally considered non-arbitrable: (i) disputes relating to rights and liabilities which give rise to or arise out of criminal offences; (ii) matrimonial disputes; (iii) matters of guardianship; (iv) insolvency and winding-up matters; (v) testamentary matters; and (vi) eviction or tenancy matters governed by special statutes.",
+    "legal_propositions": ["Categories of non-arbitrable disputes enumerated", "Tenancy disputes under special statutes are non-arbitrable"]
+  },
+  {
+    "paragraph_id": "SC_ARB_007_P2",
+    "case_id": "SC_ARB_007",
+    "paragraph_number": "84",
+    "text": "A four-fold test is applied to determine whether a subject-matter is non-arbitrable: (1) the nature of rights in personam or in rem; (2) the cause of action and subject-matter; (3) suitability of the dispute for resolution through arbitration; and (4) whether the dispute relates to sovereign or public interest functions of the State.",
+    "legal_propositions": ["Four-fold test for non-arbitrability", "In rem rights generally non-arbitrable"]
+  },
+  {
+    "paragraph_id": "SC_ARB_008_P1",
+    "case_id": "SC_ARB_008",
+    "paragraph_number": "34",
+    "text": "After the 2015 Amendment, the expression 'public policy of India' in Section 34 must be given a narrow meaning. The ground of 'patent illegality appearing on the face of the award' is available only in the case of domestic arbitrations and not in international commercial arbitrations.",
+    "legal_propositions": ["Post-2015 public policy ground is narrowed", "Patent illegality only for domestic awards"]
+  },
+  {
+    "paragraph_id": "SC_ARB_009_P1",
+    "case_id": "SC_ARB_009",
+    "paragraph_number": "42",
+    "text": "An arbitral award can be set aside under Section 34 only if the finding of the arbitral tribunal is so perverse and unreasonable that no reasonable person would have arrived at such a finding. The court does not sit in appeal over the award.",
+    "legal_propositions": ["Court does not sit in appeal over arbitral award", "Perversity is ground for setting aside"]
+  },
+  {
+    "paragraph_id": "SC_ARB_010_P1",
+    "case_id": "SC_ARB_010",
+    "paragraph_number": "21",
+    "text": "Post the 2015 Amendment, the court at the stage of Section 8 or Section 11 is required to examine only the existence of the arbitration agreement. All other issues, including the validity of the agreement, are for the arbitral tribunal to decide.",
+    "legal_propositions": ["Referral stage limited to existence of agreement", "Tribunal decides validity questions"]
+  },
+  {
+    "paragraph_id": "SC_ARB_011_P1",
+    "case_id": "SC_ARB_011",
+    "paragraph_number": "16",
+    "text": "Party autonomy is the backbone of arbitration. However, this autonomy cannot be stretched to a point where it negates the very basis of arbitration — which is the equal treatment of parties and the requirement of an independent and impartial arbitral tribunal.",
+    "legal_propositions": ["Party autonomy fundamental but not unlimited", "Equal treatment and impartiality are paramount"]
+  },
+  {
+    "paragraph_id": "SC_ARB_011_P2",
+    "case_id": "SC_ARB_011",
+    "paragraph_number": "19",
+    "text": "An appointment clause which gives one party the exclusive right to appoint a sole arbitrator is invalid and violates the principles of equal treatment of parties as enshrined in Section 18 read with Section 12 of the Act.",
+    "legal_propositions": ["Unilateral appointment clause is invalid", "Violates equal treatment under Section 18"]
+  },
+  {
+    "paragraph_id": "SC_EVD_001_P1",
+    "case_id": "SC_EVD_001",
+    "paragraph_number": "24",
+    "text": "Section 65B of the Evidence Act provides a special provision for the admissibility of electronic records. It is a complete code in itself. Any person seeking to rely on electronic evidence must comply with the conditions set out in sub-section (4), which mandates a certificate identifying the electronic record.",
+    "legal_propositions": ["Section 65B is a complete code for electronic evidence", "Certificate under Section 65B(4) is mandatory"]
+  },
+  {
+    "paragraph_id": "SC_EVD_001_P2",
+    "case_id": "SC_EVD_001",
+    "paragraph_number": "37",
+    "text": "The evidence relating to electronic record is to be proved in accordance with the procedure prescribed under Section 65B. The general law on secondary evidence under Sections 63 and 65 has no application when it comes to electronic records.",
+    "legal_propositions": ["Sections 63 and 65 do not apply to electronic records", "Section 65B is exclusive for electronic evidence"]
+  },
+  {
+    "paragraph_id": "SC_EVD_002_P1",
+    "case_id": "SC_EVD_002",
+    "paragraph_number": "42",
+    "text": "The requirement of a certificate under Section 65B(4) is mandatory and a condition precedent to the admissibility of electronic evidence. Without such a certificate, electronic evidence is inadmissible. However, where the original device is produced, Section 65B does not apply as the evidence is primary evidence.",
+    "legal_propositions": ["Section 65B certificate is mandatory for secondary electronic evidence", "Original device production makes evidence primary"]
+  },
+  {
+    "paragraph_id": "SC_EVD_002_P2",
+    "case_id": "SC_EVD_002",
+    "paragraph_number": "56",
+    "text": "The certificate required under Section 65B(4) must be contemporaneous with the time when the electronic record was generated or as close thereto as possible. The certificate must identify the electronic record, describe the manner of its production, and certify the accuracy of the contents.",
+    "legal_propositions": ["Certificate should be contemporaneous", "Certificate must identify and describe electronic record"]
+  },
+  {
+    "paragraph_id": "SC_EVD_003_P1",
+    "case_id": "SC_EVD_003",
+    "paragraph_number": "11",
+    "text": "The requirement of Section 65B certificate should not be used as a means to deny justice. In the case of mobile phone recordings, where the device itself is produced before the Court, the requirement of a certificate may be relaxed in the interests of justice.",
+    "legal_propositions": ["65B should not be used to deny justice", "Relaxation possible when original device produced"]
+  },
+  {
+    "paragraph_id": "SC_EVD_004_P1",
+    "case_id": "SC_EVD_004",
+    "paragraph_number": "28",
+    "text": "A contract need not always be in writing. In the modern commercial world, contracts are often formed through email exchanges, telephonic conversations, and the conduct of the parties. What matters is the meeting of minds and the intention to create legal relations.",
+    "legal_propositions": ["Contracts can be formed through electronic communications", "Meeting of minds determines contractual relationship"]
+  },
+  {
+    "paragraph_id": "SC_EVD_004_P2",
+    "case_id": "SC_EVD_004",
+    "paragraph_number": "35",
+    "text": "The conduct of the parties subsequent to the exchange of communications is a strong indicator of the existence of a contractual relationship. When parties have acted upon the terms discussed in their correspondence, they cannot later deny the existence of the contract.",
+    "legal_propositions": ["Subsequent conduct indicates contractual relationship", "Parties cannot deny contract when they have acted upon it"]
+  },
+  {
+    "paragraph_id": "SC_EVD_005_P1",
+    "case_id": "SC_EVD_005",
+    "paragraph_number": "32",
+    "text": "For a conviction based on circumstantial evidence, the prosecution must establish a chain of circumstances which is complete. The circumstances established must be consistent only with the hypothesis of the guilt of the accused and should exclude every other hypothesis except that of guilt.",
+    "legal_propositions": ["Chain of circumstances must be complete", "Circumstances must exclude innocence hypothesis"]
+  },
+  {
+    "paragraph_id": "SC_EVD_006_P1",
+    "case_id": "SC_EVD_006",
+    "paragraph_number": "18",
+    "text": "When the terms of any contract, grant or other disposition of property have been reduced to the form of a document, no evidence shall be given in proof of the terms of such contract except the document itself. This is the well-known rule against admissibility of parol evidence.",
+    "legal_propositions": ["Parol evidence rule bars oral evidence of written terms", "Document is best evidence of its contents"]
+  },
+  {
+    "paragraph_id": "SC_EVD_007_P1",
+    "case_id": "SC_EVD_007",
+    "paragraph_number": "150",
+    "text": "Irrespective of the compliance with the requirements of Section 65B, which is a provision dealing with admissibility of electronic records, there is no bar to adducing secondary evidence under the other provisions of the Evidence Act. The general provisions of the Evidence Act including Sections 63 and 65 are available.",
+    "legal_propositions": ["General secondary evidence provisions apply to electronic records", "Section 65B not exclusive route for electronic evidence"]
+  },
+  {
+    "paragraph_id": "SC_FR_001_P1",
+    "case_id": "SC_FR_001",
+    "paragraph_number": "1",
+    "text": "The right to privacy is protected as an intrinsic part of the right to life and personal liberty under Article 21 and as a part of the freedoms guaranteed by Part III of the Constitution. Privacy is the constitutional core of human dignity.",
+    "legal_propositions": ["Privacy is fundamental right under Article 21", "Privacy is core of human dignity"]
+  },
+  {
+    "paragraph_id": "SC_FR_001_P2",
+    "case_id": "SC_FR_001",
+    "paragraph_number": "320",
+    "text": "Privacy includes at its core the preservation of personal intimacies, the sanctity of family life, marriage, procreation, the home and sexual orientation. Privacy also connotes a right to be left alone. Privacy safeguards individual autonomy and recognises the ability of the individual to control vital aspects of life.",
+    "legal_propositions": ["Privacy encompasses personal intimacies and family life", "Privacy includes right to be left alone and autonomy"]
+  },
+  {
+    "paragraph_id": "SC_FR_001_P3",
+    "case_id": "SC_FR_001",
+    "paragraph_number": "325",
+    "text": "Informational privacy is a facet of the right to privacy. The dangers to privacy in an age of information can originate not only from the state but also from non-state actors. The right to privacy must therefore be protected against both state and non-state action.",
+    "legal_propositions": ["Informational privacy is part of right to privacy", "Privacy must be protected against state and non-state actors"]
+  },
+  {
+    "paragraph_id": "SC_FR_002_P1",
+    "case_id": "SC_FR_002",
+    "paragraph_number": "58",
+    "text": "Articles 14, 19 and 21 are not mutually exclusive. They constitute a single scheme of guaranteeing fundamental rights. Any law depriving a person of personal liberty must satisfy the requirements of all three articles. The procedure under Article 21 must be right, just and fair and not arbitrary, fanciful or oppressive.",
+    "legal_propositions": ["Articles 14, 19, 21 form an integrated scheme", "Procedure must be right, just and fair"]
+  },
+  {
+    "paragraph_id": "SC_FR_002_P2",
+    "case_id": "SC_FR_002",
+    "paragraph_number": "65",
+    "text": "The expression 'personal liberty' in Article 21 is of the widest amplitude and covers a variety of rights which go to constitute the personal liberty of man. It includes the right to travel abroad, and no person can be deprived of this right except according to procedure established by law.",
+    "legal_propositions": ["Personal liberty has widest amplitude", "Right to travel abroad included in Article 21"]
+  },
+  {
+    "paragraph_id": "SC_FR_003_P1",
+    "case_id": "SC_FR_003",
+    "paragraph_number": "25",
+    "text": "The right to personal liberty takes in not only a right to be free from restrictions placed on the body but also extends to free exercise of the faculties by which liberty is enjoyed. Surveillance through domiciliary visits constitutes an infringement of personal liberty.",
+    "legal_propositions": ["Personal liberty extends beyond physical restraints", "Police surveillance infringes personal liberty"]
+  },
+  {
+    "paragraph_id": "SC_FR_004_P1",
+    "case_id": "SC_FR_004",
+    "paragraph_number": "178",
+    "text": "The compulsory administration of techniques such as narcoanalysis, polygraph examination and the Brain Electrical Activation Profile test violates the right against self-incrimination enshrined in Article 20(3) and also amounts to an invasion of mental privacy, which is a facet of the right to life and liberty under Article 21.",
+    "legal_propositions": ["Forced tests violate right against self-incrimination", "Mental privacy is a facet of Article 21"]
+  },
+  {
+    "paragraph_id": "SC_FR_005_P1",
+    "case_id": "SC_FR_005",
+    "paragraph_number": "15",
+    "text": "Each incident of sexual harassment of woman at workplace results in violation of the fundamental rights of Gender Equality and the Right to Life and Liberty. It is a clear violation of the rights under Articles 14, 15 and 21 of the Constitution.",
+    "legal_propositions": ["Sexual harassment violates fundamental rights", "Workplace safety is a right under Articles 14, 15, 21"]
+  },
+  {
+    "paragraph_id": "SC_FR_006_P1",
+    "case_id": "SC_FR_006",
+    "paragraph_number": "30",
+    "text": "Custodial torture is a naked violation of human dignity and degradation which destroys, to a very large extent, the individual personality. It is a calculated assault on human dignity and whenever human dignity is wounded, civilisation takes a step backward.",
+    "legal_propositions": ["Custodial torture violates human dignity", "Protection from torture is part of Article 21"]
+  },
+  {
+    "paragraph_id": "SC_FR_007_P1",
+    "case_id": "SC_FR_007",
+    "paragraph_number": "447",
+    "text": "The Aadhaar Act, 2016, in its nature and intent, is a beneficial legislation aimed at reaching out to the marginalized sections of the society. However, the use of Aadhaar data by private entities under Section 57 is beyond the legislative competence of the Act.",
+    "legal_propositions": ["Aadhaar Act is beneficial legislation", "Section 57 allowing private use is unconstitutional"]
+  },
+  {
+    "paragraph_id": "SC_CON_001_P1",
+    "case_id": "SC_CON_001",
+    "paragraph_number": "316",
+    "text": "The power of amendment under Article 368 does not include the power to abrogate the Constitution or to alter its basic structure or framework. The Constitution gives enough power to amend each and every article. But the power to amend does not include the power to destroy.",
+    "legal_propositions": ["Amendment power does not include power to destroy", "Basic structure cannot be altered by amendment"]
+  },
+  {
+    "paragraph_id": "SC_CON_001_P2",
+    "case_id": "SC_CON_001",
+    "paragraph_number": "325",
+    "text": "The basic structure includes: supremacy of the Constitution, republican and democratic form of government, secular character, separation of powers, federal character. These are essential features which cannot be abrogated by constitutional amendment.",
+    "legal_propositions": ["Basic structure features enumerated", "Democracy, secularism, federalism are basic structure"]
+  },
+  {
+    "paragraph_id": "SC_CON_002_P1",
+    "case_id": "SC_CON_002",
+    "paragraph_number": "57",
+    "text": "The Indian Constitution is founded on the bedrock of the balance between Parts III and IV. To give absolute primacy to one over the other is to disturb the harmony of the Constitution. The harmony and balance between fundamental rights and directive principles is an essential feature of the basic structure.",
+    "legal_propositions": ["Balance between Parts III and IV is basic structure", "Neither fundamental rights nor directive principles have absolute primacy"]
+  },
+  {
+    "paragraph_id": "SC_CON_002_P2",
+    "case_id": "SC_CON_002",
+    "paragraph_number": "66",
+    "text": "Judicial review is a basic feature of the Constitution. The power of judicial review cannot be taken away by a constitutional amendment. Since the power of judicial review is part of the basic structure, any attempt to destroy or damage this power would be unconstitutional.",
+    "legal_propositions": ["Judicial review is basic structure", "Cannot be removed by amendment"]
+  },
+  {
+    "paragraph_id": "SC_CON_003_P1",
+    "case_id": "SC_CON_003",
+    "paragraph_number": "52",
+    "text": "Laws included in the Ninth Schedule after April 24, 1973, are amenable to judicial review on the touchstone of the basic structure. If any of these laws violate the basic structure, including the fundamental rights forming part of the basic structure, they can be struck down.",
+    "legal_propositions": ["Post-1973 Ninth Schedule laws are reviewable", "Basic structure test applies to Ninth Schedule"]
+  },
+  {
+    "paragraph_id": "SC_CON_004_P1",
+    "case_id": "SC_CON_004",
+    "paragraph_number": "87",
+    "text": "Secularism is a basic feature of the Constitution. The State has no religion. The State shall treat all religions and religious groups equally and with equal respect. Any action of the State contrary to this principle would violate the basic structure.",
+    "legal_propositions": ["Secularism is basic structure feature", "State must treat all religions equally"]
+  },
+  {
+    "paragraph_id": "SC_CON_004_P2",
+    "case_id": "SC_CON_004",
+    "paragraph_number": "125",
+    "text": "The power under Article 356 is subject to judicial review. The satisfaction of the President must be based on relevant material. The exercise of power under Article 356 is not immune from judicial scrutiny merely because it involves a political question.",
+    "legal_propositions": ["Article 356 subject to judicial review", "Presidential satisfaction must be on relevant material"]
+  },
+  {
+    "paragraph_id": "SC_CON_005_P1",
+    "case_id": "SC_CON_005",
+    "paragraph_number": "810",
+    "text": "The total reservations should not exceed 50 per cent. While 50 per cent shall be the rule, it is necessary not to put out of consideration certain extraordinary situations inherent in the great diversity of this country and the people.",
+    "legal_propositions": ["50% ceiling on reservations", "Extraordinary situations may warrant exceptions"]
+  },
+  {
+    "paragraph_id": "SC_CON_005_P2",
+    "case_id": "SC_CON_005",
+    "paragraph_number": "836",
+    "text": "The advanced sections among the backward classes, popularly known as the 'creamy layer', must be excluded from the backward classes for the purpose of reservation under Article 16(4). The benefit of reservation should reach the truly backward.",
+    "legal_propositions": ["Creamy layer must be excluded from reservations", "Reservation benefits must reach truly backward"]
+  },
+  {
+    "paragraph_id": "SC_CON_006_P1",
+    "case_id": "SC_CON_006",
+    "paragraph_number": "12",
+    "text": "Amendments to the Ninth Schedule made on or after April 24, 1973, are open to challenge on the basis of the basic structure doctrine laid down in Kesavananda Bharati. The protection of the Ninth Schedule is not absolute and unconditional.",
+    "legal_propositions": ["Ninth Schedule protection not absolute", "Post-Kesavananda amendments reviewable"]
+  }
+]

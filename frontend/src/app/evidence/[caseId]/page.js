@@ -1,77 +1,21 @@
-"use client";
-import { useEffect, useState } from 'react';
-import { ArrowLeft } from 'lucide-react';
-import Link from 'next/link';
-import JudgmentViewer from '@/components/evidence/JudgmentViewer';
-import EvidenceMap from '@/components/evidence/EvidenceMap';
-import { api } from '@/lib/api';
+import EvidenceClient from './EvidenceClient';
 
-// Using mock data for the page
-const mockCaseData = {
-  id: "case_1",
-  court: "SUPREME COURT OF INDIA",
-  caseName: "SMS Tea Estates Pvt. Ltd. v. Chandmari Tea Co. Pvt. Ltd.",
-  citation: "(2011) 14 SCC 66",
-  date: "2011-07-20",
-  passage: "The arbitration agreement is an independent agreement between the parties... even if the main agreement is terminated, the arbitration agreement will survive for resolution of disputes arising under or in connection with the main agreement.",
-  paragraph: "12",
-};
+export function generateStaticParams() {
+  const caseIds = [
+    'SC_ARB_001', 'SC_ARB_002', 'SC_ARB_003', 'SC_ARB_004', 'SC_ARB_005', 
+    'SC_ARB_006', 'SC_ARB_007', 'SC_ARB_008', 'SC_ARB_009', 'SC_ARB_010', 
+    'SC_ARB_011', 'SC_EVD_001', 'SC_EVD_002', 'SC_EVD_003', 'SC_EVD_004', 
+    'SC_EVD_005', 'SC_EVD_006', 'SC_EVD_007', 'SC_FR_001', 'SC_FR_002', 
+    'SC_FR_003', 'SC_FR_004', 'SC_FR_005', 'SC_FR_006', 'SC_FR_007', 
+    'SC_CON_001', 'SC_CON_002', 'SC_CON_003', 'SC_CON_004', 'SC_CON_005', 
+    'SC_CON_006'
+  ];
+
+  return caseIds.map((id) => ({
+    caseId: id,
+  }));
+}
 
 export default function EvidencePage({ params }) {
-  const [caseData, setCaseData] = useState(null);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    async function fetchCase() {
-      try {
-        const data = await api.getCase(params.caseId);
-        const paragraphs = await api.getCaseParagraphs(params.caseId);
-        if (data) {
-          setCaseData({
-            id: data.case_id,
-            court: data.court,
-            caseName: data.case_name,
-            citation: data.citation,
-            date: data.date,
-            paragraphs: paragraphs // pass full paragraphs to map
-          });
-        }
-      } catch (err) {
-        console.error(err);
-      } finally {
-        setLoading(false);
-      }
-    }
-    fetchCase();
-  }, [params.caseId]);
-
-  if (loading) {
-    return <div className="p-8 text-nyaya-secondary">Loading case data...</div>;
-  }
-
-  if (!caseData) {
-    return <div className="p-8 text-nyaya-secondary">Case not found in prototype corpus.</div>;
-  }
-
-  return (
-    <div className="h-[calc(100vh-2rem)] flex flex-col -mx-8 -mt-6">
-      <div className="px-8 py-3 bg-nyaya-surface border-b border-nyaya-border flex items-center">
-        <Link 
-          href="/results"
-          className="flex items-center gap-2 text-sm text-nyaya-secondary hover:text-nyaya-text transition-colors"
-        >
-          <ArrowLeft size={16} /> Back to Results
-        </Link>
-      </div>
-      
-      <div className="flex-1 flex overflow-hidden">
-        <div className="w-2/3 h-full">
-          <JudgmentViewer caseData={caseData} />
-        </div>
-        <div className="w-1/3 h-full">
-          <EvidenceMap caseData={caseData} />
-        </div>
-      </div>
-    </div>
-  );
+  return <EvidenceClient params={params} />;
 }
